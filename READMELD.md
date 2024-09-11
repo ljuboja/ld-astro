@@ -36,3 +36,8 @@ git remote add origin https://github.com/ljuboja/ld-astro.git
 git branch -M main
 git push -u origin main
 ```
+
+- Create your first Astro pages with the .astro syntax
+- Add blog posts with Markdown (.md) files
+- Style an individual page with <style>
+- Apply global styles across pages
